@@ -8,7 +8,7 @@ import Counter from './components/counter.jsx';
 import Counters from './components/counters.jsx';
 
 ReactDOM.render(
-   <Counters/>,
+   <App/>,
   document.getElementById('root')
 );
 
